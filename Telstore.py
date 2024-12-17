@@ -11,7 +11,7 @@ API_ID = "22903347"  # Replace with your API ID
 API_HASH = "d4164bdce355a4f5864e1e9be667df08"  # Replace with your API Hash
 BOT_TOKEN = "7871842820:AAHrR3j4yysjhC7bulovKVi0pt56-ERps1s"  # Replace with your Bot Token
 CHANNEL_ID = -1002143528531  # Replace with your Telegram Channel ID (negative for private channels)
-WELCOME_CHANNEL_ID = "@YourWelcomeChannel"  # Replace with your Telegram Channel for user verification
+WELCOME_CHANNEL_ID = "-1001847390570"  # Replace with your Telegram Channel for user verification
 MONGO_URI = "mongodb+srv://oshadisandeepani8:<db_password>@filesharebot.8b1x8xi.mongodb.net/?retryWrites=true&w=majority&appName=FileShareBot"  # Replace with your MongoDB URI
 
 # Admin List (replace with actual Admin IDs)
